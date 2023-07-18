@@ -4,6 +4,6 @@ Automated Documentation for Open Source Hardware - PDF
 
 |---------+----------------------------------------------------------|
 | source  | git:https://codeberg.org/osh-autodoc/osh-autodoc-pdf.git |
-| commit  | 917cbcf87                                                |
+| commit  | f917cbcf87                                               |
 | systems | osh-autodoc-pdf                                          |
 |---------+----------------------------------------------------------|
